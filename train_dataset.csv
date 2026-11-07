@@ -1,0 +1,84 @@
+Image_Path,Disease_Class,Image_Name,Encoded_Label
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0314.JPG,Leaf smut,DSC_0314.JPG,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0325.JPG,Brown spot,DSC_0325.JPG,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0317.JPG,Leaf smut,DSC_0317.JPG,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0331.JPG,Leaf smut,DSC_0331.JPG,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0107.jpg,Brown spot,DSC_0107.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0403.JPG,Bacterial leaf blight,DSC_0403.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0305.JPG,Brown spot,DSC_0305.JPG,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0366.jpg,Bacterial leaf blight,DSC_0366.jpg,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0373.JPG,Bacterial leaf blight,DSC_0373.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0511.jpg,Leaf smut,DSC_0511.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0701.jpg,Bacterial leaf blight,DSC_0701.jpg,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0308.JPG,Leaf smut,DSC_0308.JPG,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0338.JPG,Leaf smut,DSC_0338.JPG,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0116.jpg,Brown spot,DSC_0116.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0332.JPG,Brown spot,DSC_0332.JPG,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0380.JPG,Bacterial leaf blight,DSC_0380.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0365.JPG,Bacterial leaf blight,DSC_0365.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0509.jpg,Leaf smut,DSC_0509.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0393.JPG,Bacterial leaf blight,DSC_0393.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0101.jpg,Brown spot,DSC_0101.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0513.jpg,Leaf smut,DSC_0513.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0104.jpg,Brown spot,DSC_0104.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0510.jpg,Leaf smut,DSC_0510.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0118.jpg,Brown spot,DSC_0118.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0323.JPG,Brown spot,DSC_0323.JPG,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0309.JPG,Leaf smut,DSC_0309.JPG,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0383.JPG,Bacterial leaf blight,DSC_0383.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0372.JPG,Bacterial leaf blight,DSC_0372.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0384.JPG,Bacterial leaf blight,DSC_0384.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0500.jpg,Leaf smut,DSC_0500.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0292.JPG,Brown spot,DSC_0292.JPG,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0374.JPG,Bacterial leaf blight,DSC_0374.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0401.JPG,Bacterial leaf blight,DSC_0401.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0106.jpg,Brown spot,DSC_0106.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0324.JPG,Brown spot,DSC_0324.JPG,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0313.JPG,Leaf smut,DSC_0313.JPG,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0501.jpg,Leaf smut,DSC_0501.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0333.JPG,Brown spot,DSC_0333.JPG,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0111.jpg,Brown spot,DSC_0111.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0370.jpg,Bacterial leaf blight,DSC_0370.jpg,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0506.jpg,Leaf smut,DSC_0506.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0109.jpg,Brown spot,DSC_0109.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0400.JPG,Bacterial leaf blight,DSC_0400.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0397.JPG,Bacterial leaf blight,DSC_0397.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0117.jpg,Brown spot,DSC_0117.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0320.JPG,Leaf smut,DSC_0320.JPG,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0516.jpg,Leaf smut,DSC_0516.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0295.JPG,Brown spot,DSC_0295.JPG,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0396.JPG,Bacterial leaf blight,DSC_0396.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0377.JPG,Bacterial leaf blight,DSC_0377.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0113.jpg,Brown spot,DSC_0113.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0304.JPG,Brown spot,DSC_0304.JPG,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0328.jpg,Leaf smut,DSC_0328.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0306.JPG,Brown spot,DSC_0306.JPG,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0395.JPG,Bacterial leaf blight,DSC_0395.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0385.jpg,Bacterial leaf blight,DSC_0385.jpg,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0112.jpg,Brown spot,DSC_0112.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0296.jpg,Brown spot,DSC_0296.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0318.JPG,Leaf smut,DSC_0318.JPG,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0100.jpg,Brown spot,DSC_0100.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0406.JPG,Bacterial leaf blight,DSC_0406.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0312.JPG,Leaf smut,DSC_0312.JPG,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0514.jpg,Leaf smut,DSC_0514.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0402.JPG,Bacterial leaf blight,DSC_0402.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0398.JPG,Bacterial leaf blight,DSC_0398.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0335.JPG,Leaf smut,DSC_0335.JPG,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0388.JPG,Bacterial leaf blight,DSC_0388.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0329.jpg,Brown spot,DSC_0329.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0504.jpg,Leaf smut,DSC_0504.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0337.JPG,Brown spot,DSC_0337.JPG,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0512.jpg,Leaf smut,DSC_0512.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0700.jpg,Bacterial leaf blight,DSC_0700.jpg,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0507.jpg,Leaf smut,DSC_0507.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0378.JPG,Bacterial leaf blight,DSC_0378.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0404.JPG,Bacterial leaf blight,DSC_0404.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0376.JPG,Bacterial leaf blight,DSC_0376.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0502.jpg,Leaf smut,DSC_0502.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0503.jpg,Leaf smut,DSC_0503.jpg,2
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0121.jpg,Brown spot,DSC_0121.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Bacterial leaf blight\Bacterial leaf blight\DSC_0405.JPG,Bacterial leaf blight,DSC_0405.JPG,0
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0307.JPG,Brown spot,DSC_0307.JPG,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Brown spot\Brown spot\DSC_0108.jpg,Brown spot,DSC_0108.jpg,1
+C:\Users\brind_0lf2fog\Capstone Project Datamites\Project 3 - Rice Leaf Disease\dataset\RiceLeaf_Images\Leaf smut\Leaf smut\DSC_0515.jpg,Leaf smut,DSC_0515.jpg,2
